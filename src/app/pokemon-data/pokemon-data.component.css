@@ -1,0 +1,33 @@
+mat-toolbar-row{
+    height: 100px;
+}
+mat-card{
+    width: 20%;
+    height: 400px;
+    border-radius:0px 0px 10px 0px;
+}
+img{
+    width: auto;
+    height: 300px;
+
+}
+
+mat-card-title{
+    line-height: 30px;
+    font-size: large;
+    word-spacing: 6px;
+    border-bottom: solid white;
+    padding-bottom: 8px;
+}
+
+mat-card-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('../../assets/pokebola.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+
